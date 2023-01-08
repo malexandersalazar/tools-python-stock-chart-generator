@@ -2,7 +2,7 @@
 
 ![alt text](/images/MSFT_1Y_1D.png "MSFT 1Y 1D")
 
-A tool for generating stock chart from Yahoo! Finance's API.
+A tool for generating stock charts from Yahoo! Finance's API.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Just copy the `scg.py` script located in the dist folder.
 
 ## Getting started
 
-You should set three parameterse: yahoo symbol, period and interval. 
+You should set three parameters: yahoo symbol, period and interval. 
 
 > python scg.py MSFT 1y 1d
 
